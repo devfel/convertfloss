@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "hexa": "#FFE2E2",
+    "rgb": "255,226,226",
+    "name": "salmon very light",
+    "dmc": "3713",
+    "anchor": "1020",
+    "sullivans": "45363",
+    "coats": "3281",
+    "maxi": "401"
+  },
+  {
+    "id": 2,
+    "hexa": "#FFC9C9",
+    "rgb": "255,201,201",
+    "name": "salmon light",
+    "dmc": "761",
+    "anchor": "1021",
+    "sullivans": "45192",
+    "coats": "3125",
+    "maxi": "404"
+  },
+  {
+    "id": 3,
+    "hexa": "#F5ADAD",
+    "rgb": "245,173,173",
+    "name": "salmon",
+    "dmc": "760",
+    "anchor": "1022",
+    "sullivans": "45191",
+    "coats": "3069",
+    "maxi": "253"
+  }
+]

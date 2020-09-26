@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Embroidery Floss Converter</title>
+    <link rel="stylesheet" type="text/css" href="./css/main.css" />
+  </head>
+  <body>
+    <h1>Embroidery Floss Converter</h1>
+    <label for="searchInput">Input: </label>
+    <input type="text" id="searchInput" name="fname" />
+    <select name="column" id="ColumnValue">
+      <option value="name">Color Name</option>
+      <option value="rgb">RGB</option>
+      <option value="dmc">DMC</option>
+      <option value="anchor">Anchor</option>
+      <option value="sullivans">Sullivans</option>
+      <option value="coats">J&P Coats</option>
+      <option value="maxi">Maxi Mouline</option>
+    </select>
+    <button onclick="filterData()">Click me</button>
+    <div class="table-div">
+      <table class="floss-table"></table>
+    </div>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
