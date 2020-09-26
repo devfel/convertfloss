@@ -1,5 +1,5 @@
 //console.log("teste");
-const url = "./../data/flosscolor.json";
+const url = "./convertfloss/data/flosscolor.json";
 const table = ".floss-table";
 const flossTable = document.querySelector(table);
 let arrayColors = [];
