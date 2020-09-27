@@ -7,7 +7,7 @@ body {
 
 header {
   background-color: #79abcf;
-  /*background: url("../images/background03.png") no-repeat;*/
+  background: url("../images/background03.png") no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
