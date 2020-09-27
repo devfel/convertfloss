@@ -31,6 +31,7 @@ function cleanTable() {
 }
 
 async function fetchColors() {
+  cleanTable();
   try {
     const colorsRespose = await fetch(url);
     const colorsJSON = await colorsRespose.json();

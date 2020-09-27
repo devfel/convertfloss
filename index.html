@@ -7,19 +7,29 @@
     <link rel="stylesheet" type="text/css" href="./css/main.css" />
   </head>
   <body>
-    <h1>Embroidery Floss Converter</h1>
-    <label for="searchInput">Input: </label>
-    <input type="text" id="searchInput" name="fname" />
-    <select name="column" id="ColumnValue">
-      <option value="name">Color Name</option>
-      <option value="rgb">RGB</option>
-      <option value="dmc">DMC</option>
-      <option value="anchor">Anchor</option>
-      <option value="sullivans">Sullivans</option>
-      <option value="coats">J&P Coats</option>
-      <option value="maxi">Maxi Mouline</option>
-    </select>
-    <button onclick="filterData()">Click me</button>
+    <header>
+      <h1>Embroidery Floss Converter</h1>
+      <div class="commands">
+        <input
+          type="text"
+          id="searchInput"
+          name="fname"
+          placeholder="Type your search"
+        />
+        <select name="column" id="ColumnValue">
+          <option value="name" selected disabled hidden>Search By:</option>
+          <option value="name">Color Name</option>
+          <option value="rgb">RGB</option>
+          <option value="dmc">DMC</option>
+          <option value="anchor">Anchor</option>
+          <option value="sullivans">Sullivans</option>
+          <option value="coats">J&P Coats</option>
+          <option value="maxi">Maxi Mouline</option>
+        </select>
+        <button onclick="filterData()">Search</button>
+        <button onclick="fetchColors()">Show All</button>
+      </div>
+    </header>
     <div class="table-div">
       <table class="floss-table"></table>
     </div>

@@ -1,22 +1,64 @@
 body {
   /*background: -webkit-linear-gradient(left, #25c481, #25b7c4);
   background: linear-gradient(to right, #25c481, #25b7c4);*/
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header {
   background-color: #000000;
-  background: url("../images/background02.jpg") no-repeat center center fixed;
+  background: url("../images/background03.png") no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: sans-serif;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.commands {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+  align-items: stretch;
+  margin: 0 auto;
+}
+
+.commands > * {
+  margin: 2px;
+  height: 35px;
+  padding-left: 15px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background: rgb(110, 83, 185);
+  font-size: 1rem;
+  outline: none;
+}
+
+.commands button {
+  -webkit-box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.75);
+  margin-bottom: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+::placeholder {
+  color: white;
 }
 
 h1 {
   font-size: 30px;
-  color: rgb(100, 100, 100);
+  color: rgb(252, 252, 252);
+  background-color: rgba(0, 0, 0, 0.4);
   text-transform: uppercase;
   font-weight: 600;
   text-align: center;
-  margin-bottom: 15px;
+  margin: 0 0 10px 0;
+  padding: 15px 0;
 }
 
 .floss-table {
@@ -36,7 +78,7 @@ td {
 }
 
 .table-title {
-  background-color: rgba(0, 0, 0);
+  background-color: rgb(25, 0, 136);
   padding: 20px 15px;
   text-align: left;
   font-weight: 500;
