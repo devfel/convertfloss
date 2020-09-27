@@ -31,7 +31,7 @@ header {
   border: none;
   border-radius: 8px;
   color: white;
-  background: rgb(110, 83, 185);
+  background: rgba(110, 83, 185, 0.92);
   font-size: 1rem;
   outline: none;
 }
@@ -56,12 +56,12 @@ header {
 h1 {
   font-size: 2rem;
   color: rgb(212, 209, 255);
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.6);
   text-transform: uppercase;
   font-weight: 600;
   text-align: center;
-  margin: 0 5px 10px 5px;
-  padding: 15px 0;
+  margin: 0 0px 10px 0px;
+  padding: 15px 5px;
 }
 
 .floss-table {
