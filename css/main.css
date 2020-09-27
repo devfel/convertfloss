@@ -1,6 +1,4 @@
 body {
-  /*background: -webkit-linear-gradient(left, #25c481, #25b7c4);
-  background: linear-gradient(to right, #25c481, #25b7c4);*/
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -64,7 +62,7 @@ h1 {
 
 .floss-table {
   margin: 0 auto;
-  width: 100%;
+  width: 98%;
   max-width: 1080px;
 }
 

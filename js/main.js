@@ -1,5 +1,5 @@
-//console.log("teste");
 const url = "https://devfel.github.io/convertfloss/data/flosscolor.json";
+//const url = "../data/flosscolor.json"; //Local Data
 const table = ".floss-table";
 const flossTable = document.querySelector(table);
 let arrayColors = [];
@@ -14,10 +14,16 @@ async function filterData() {
     createTableTitles(flossTable);
     let searchTerm = document.getElementById("searchInput").value;
     let searchColumn = document.getElementById("ColumnValue").value;
-    console.log(searchColumn);
-    arrayColors = colorsJSON.filter((floss) =>
-      floss[searchColumn].includes(searchTerm.toLowerCase())
-    );
+    if (searchColumn === "name" || searchColumn === "rgb") {
+      arrayColors = colorsJSON.filter((floss) =>
+        floss[searchColumn].includes(searchTerm.toLowerCase())
+      );
+    } else {
+      arrayColors = colorsJSON.filter(
+        (floss) => floss[searchColumn] === searchTerm.toLowerCase()
+      );
+    }
+
     arrayColors.forEach((e) => createElementLIs(e, flossTable));
   } catch (erro) {
     console.log(erro);
@@ -158,10 +164,3 @@ function init() {
 }
 
 init();
-
-/*
-var node = document.createElement("LI");                 // Create a <li> node
-var textnode = document.createTextNode("Water");         // Create a text node
-node.appendChild(textnode);                              // Append the text to <li>
-document.getElementById("myList").appendChild(node);     // Append <li> to <ul> with id="myList"
-*/
