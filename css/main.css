@@ -6,8 +6,8 @@ body {
 }
 
 header {
-  background-color: #000000;
-  background: url("../images/background03.png") no-repeat;
+  background-color: #79abcf;
+  /*background: url("../images/background03.png") no-repeat;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -62,7 +62,7 @@ h1 {
 
 .floss-table {
   margin: 0 auto;
-  width: 98%;
+  width: 100%;
   max-width: 1080px;
 }
 
