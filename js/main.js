@@ -92,6 +92,11 @@ function createTableTitles(container) {
   tdAnchor.textContent = "Anchor";
   trNode.appendChild(tdAnchor);
 
+  // Create a <li> node for Maxi atribute
+  let tdMaxi = document.createElement("td");
+  tdMaxi.textContent = "Maxi Mouline";
+  trNode.appendChild(tdMaxi);
+
   // Create a <li> node for Sullivans atribute
   let tdSullivans = document.createElement("td");
   tdSullivans.textContent = "Sullivans";
@@ -101,11 +106,6 @@ function createTableTitles(container) {
   let tdCoats = document.createElement("td");
   tdCoats.textContent = "J&P Coats";
   trNode.appendChild(tdCoats);
-
-  // Create a <li> node for Maxi atribute
-  let tdMaxi = document.createElement("td");
-  tdMaxi.textContent = "Maxi Mouline";
-  trNode.appendChild(tdMaxi);
 
   container.appendChild(trNode);
 }
@@ -139,6 +139,11 @@ function createElementLIs(elem, container) {
   liAnchor.classList.add("anchor");
   liAnchor.textContent = elem.anchor;
   ulNode.appendChild(liAnchor);
+  // Create a <li> node for maxi atribute
+  let liMaxi = document.createElement("td");
+  liMaxi.classList.add("maxi");
+  liMaxi.textContent = elem.maxi;
+  ulNode.appendChild(liMaxi);
   // Create a <li> node for sullivans atribute
   let liSullivans = document.createElement("td");
   liSullivans.classList.add("sullivans");
@@ -149,11 +154,6 @@ function createElementLIs(elem, container) {
   liCoats.classList.add("coats");
   liCoats.textContent = elem.coats;
   ulNode.appendChild(liCoats);
-  // Create a <li> node for maxi atribute
-  let liMaxi = document.createElement("td");
-  liMaxi.classList.add("maxi");
-  liMaxi.textContent = elem.maxi;
-  ulNode.appendChild(liMaxi);
 
   // adding the element to the div table
   container.appendChild(ulNode);
