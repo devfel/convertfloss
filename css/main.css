@@ -35,7 +35,11 @@ header {
   font-size: 1rem;
   outline: none;
 }
-
+.commands select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
 .commands button {
   -webkit-box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 8px 8px 8px 0px rgba(0, 0, 0, 0.75);
