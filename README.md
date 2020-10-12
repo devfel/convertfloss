@@ -1,14 +1,14 @@
 # Embroidery Floss Converter
 
-Try it live: https://devfel.github.io/convertfloss/
+Try it live: https://devfel.github.io/convertermeada/
 
-> Description
+> Descrição
 
-- A real application used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. 
-- Can also be used to find a specific color and look for the code companies use for them.
-- Created from scratch and with own JSON file to store data.
+- Um aplicativo real usado por profissionais do bordado para converter meadas (também conhecido como fios) de uma marca para outra.
+- Também pode ser usado para encontrar uma cor específica e procurar o código que as empresas usam para ela.
+- Criado do zero e com arquivo JSON próprio para armazenar dados.
 
-> Technologies Used
+> Tecnologias Utilizadas
 
 - HTML
 - CSS
