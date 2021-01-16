@@ -16,11 +16,11 @@
 ---
 
 <p align="center"> 
-In this HTML, CSS and JavaScript application I created a chart conversion used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. It can also be used to find a specific color and look for the code companies use for them. All the data comes from a JSON file created by myself and stored within the data folder.</p>
+In this **responsive** HTML, CSS and JavaScript application I created a chart conversion used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. It can also be used to find a specific color and look for the code companies use for them. All the data comes from a JSON file created by myself and stored within the data folder.</p>
 
   <p align="center">
   <a href="" rel="noopener">
- <img  width="600px" src="./src/assets/gofinance-frontend.gif" alt="GoFinance"></a>
+ <img  width="600px" src="./assets/convertfloss.gif" alt="Embroidery Floss Converter"></a>
 </p>
 
 ---
