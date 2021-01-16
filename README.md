@@ -7,6 +7,8 @@
 
 <div align="center">
 
+<p> Try it live at: https://devfel.github.io/convertfloss/ </p>
+
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -36,6 +38,8 @@ In this HTML, CSS and JavaScript application I created a chart conversion used b
 ---
 
 ## 🧐 Application features <a name = "about"></a>
+
+Try it live at: https://devfel.github.io/convertfloss/
 
 - **_List the backend's API transactions:_** the Dashboard page should be able to display a listing through a table, with the title, value, type and category field for all transactions that are registered in the API.
 - **_Display the balance:_** On the Dashboard page, it is possible to check the balance that is returned from the backend, containing the income total, the outcome total and the final balance.
