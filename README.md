@@ -15,9 +15,7 @@
 ---
 
 <p align="center"> 
-In this ReactJS application I contined to develop the transaction management application named GoFinances that already have a backend. 
-Now, along with the use of TypeScript, routes, and sending files, the application will connect to the previous created backend and display the transactions. Also it is possible now to import a CSV file to generate new records in the database.
-  </p>
+In this HTML, CSS and JavaScript application I created a chart conversion used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. It can also be used to find a specific color and look for the code companies use for them. All the data comes from a JSON file created by myself and stored withing the code (../data/flosscolor.json).</p>
 
   <p align="center">
   <a href="" rel="noopener">
