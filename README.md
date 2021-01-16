@@ -30,8 +30,8 @@ In this HTML, CSS and JavaScript application I created a chart conversion used b
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Dependencies](#dependencies)
-- [Author](#authors)
 - [Acknowledgments](#acknowledgement)
+- [Authors](#authors)
 
 ---
 
@@ -65,12 +65,12 @@ Because this was done using only HTML, CSS and JavaScript it can be replicated e
 
 ---
 
-## ✍️ Author <a name = "authors"></a>
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- [@devfel](https://github.com/devfel) - Luiz Flávio Felizardo
+- JSON file created based on [DMC CrazyArtZone](http://dmc.crazyartzone.com/index.asp) chart.
 
 ---
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## ✍️ Author <a name = "authors"></a>
 
-- Challenge proposed by Rocket Seat within the gostack 14 bootcamp.
+- [@devfel](https://github.com/devfel) - Luiz Flávio Felizardo
