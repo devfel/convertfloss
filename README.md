@@ -48,7 +48,7 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it with in your browser.
+Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it in your browser.
 
 ---
 
