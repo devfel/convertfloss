@@ -27,7 +27,7 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ## 📝 Table of Contents
 
-- [About](#about)
+- [Application Features](#features)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Dependencies](#dependencies)
@@ -36,7 +36,7 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ---
 
-## 🧐 Application features <a name = "about"></a>
+## 🧐 Application Features <a name = "features"></a>
 
 Try it live at: https://devfel.github.io/convertfloss/
 
