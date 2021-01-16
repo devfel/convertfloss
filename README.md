@@ -4,10 +4,9 @@
 </p>
 
 <h1 align="center">Embroidery Floss Converter</h1>
+<h3 align="center"> Try it live at: https://devfel.github.io/convertfloss/ </h3>
 
 <div align="center">
-
-<p> Try it live at: https://devfel.github.io/convertfloss/ </p>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
@@ -41,16 +40,9 @@ In this HTML, CSS and JavaScript application I created a chart conversion used b
 
 Try it live at: https://devfel.github.io/convertfloss/
 
-- **_List the backend's API transactions:_** the Dashboard page should be able to display a listing through a table, with the title, value, type and category field for all transactions that are registered in the API.
-- **_Display the balance:_** On the Dashboard page, it is possible to check the balance that is returned from the backend, containing the income total, the outcome total and the final balance.
-- **_Import CSV files:_** the Import page allow users to send a file in csv format to your backend, which will import the transactions into your database.
-
-With this application the user is able to:<br/>
-
-1. navigate between two pages using react's single page concept <br/>
-1. list the total balance inside the cards <br/>
-1. list the transactions <br/>
-1. upload a file
+- **_List all the Colors and Threads:_** Button to list the complete table with all the colors and floss codes.
+- **_Search by color name:_** Option to look for a thread by its color name. It is possible, for example, to search for a color and find all its shades
+- **_Search by brand's code:_** If you select a brand and insert a code number for that brand the system will filter and show all the correspodent code for the other thread brands that matchs that color.
 
 ---
 
