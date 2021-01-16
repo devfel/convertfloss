@@ -15,7 +15,7 @@
 ---
 
 <p align="center"> 
-In this HTML, CSS and JavaScript application I created a chart conversion used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. It can also be used to find a specific color and look for the code companies use for them. All the data comes from a JSON file created by myself and stored withing the code (../data/flosscolor.json).</p>
+In this HTML, CSS and JavaScript application I created a chart conversion used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. It can also be used to find a specific color and look for the code companies use for them. All the data comes from a JSON file created by myself and stored within the data folder.</p>
 
   <p align="center">
   <a href="" rel="noopener">
@@ -52,31 +52,16 @@ With this application the user is able to:<br/>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-In order to get a copy of this project an run on your local machine for development and testing purposes you will need to clone the project, run the "yarn" command on your terminal to install all the dependencies and execute the command "yarn start".
-It is also important to mention that this project requires a running database to get the data, for more information on the backend of this project check <a href="https://github.com/devfel/goFinance-backend" rel="noopener">this repository.</a>
+Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it with in your browser.
 
 ---
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [ReactJS](https://reactjs.org/) - Web Framework
-- [Typescript](https://www.typescriptlang.org/) - Programming Language
+- [JavaScript](https://www.javascript.com/) - Programming Language
 - [HTML](https://pt.wikipedia.org/wiki/HTML) - Markup Language
 - [CSS](https://en.wikipedia.org/wiki/CSS) - Style Sheets
-
----
-
-## 🔁 Dependencies <a name = "dependencies"></a>
-
-Some project library dependencies includes but are not limited to:
-
-- "axios": "^0.19.2",
-- "filesize": "^6.1.0",
-- "history": "^4.10.1",
-- "polished": "^3.5.2",
-- "react": "^16.13.1",
-- "styled-components": "^5.1.0",
-- "typescript": "~3.7.2"
+- [JSON](https://www.json.org/json-en.html) - Object Notation
 
 ---
 
