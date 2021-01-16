@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Embroidery Floss Converter</h1>
-<h3 align="center"> Try it live at: https://devfel.github.io/convertfloss/ </h3>
+<h3 align="center"> 🔗 Try it live at: https://devfel.github.io/convertfloss/ </h3>
 
 <div align="center">
 
@@ -38,7 +38,7 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ## 🧐 Application Features <a name = "features"></a>
 
-Try it live at: https://devfel.github.io/convertfloss/
+🔗 Try it live at: https://devfel.github.io/convertfloss/
 
 - **_List all the Colors and Threads:_** Button to list the complete table with all the colors and floss codes.
 - **_Search by color name:_** Option to look for a thread by its color name. It is possible, for example, to search for a color and find all its shades
