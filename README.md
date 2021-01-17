@@ -27,6 +27,7 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ## 📝 Table of Contents
 
+- [Test Here](#live)
 - [Application Features](#features)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
@@ -36,9 +37,11 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ---
 
-## 🧐 Application Features <a name = "features"></a>
+## 🕹 Test Here <a name = "live"></a>
 
-🔗 Try it live at: https://devfel.github.io/convertfloss/
+https://devfel.github.io/convertfloss/
+
+## 🧐 Application Features <a name = "features"></a>
 
 - **_List all the Colors and Threads:_** Button to list the complete table with all the colors and floss codes.
 - **_Search by color name:_** Option to look for a thread by its color name. It is possible, for example, to search for a color and find all its shades
@@ -48,7 +51,7 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it in your browser.
+Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it with in your browser.
 
 ---
 
