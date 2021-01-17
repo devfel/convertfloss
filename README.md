@@ -41,6 +41,8 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 https://devfel.github.io/convertfloss/
 
+---
+
 ## 🧐 Application Features <a name = "features"></a>
 
 - **_List all the Colors and Threads:_** Button to list the complete table with all the colors and floss codes.
@@ -52,6 +54,14 @@ https://devfel.github.io/convertfloss/
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it with in your browser.
+
+You can clone the repository through Command Prompt or Terminal just by typing:
+
+```sh
+git clone https://github.com/devfel/convertfloss.git
+```
+
+or download the zip from the green **"Code"** button.
 
 ---
 
