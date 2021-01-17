@@ -32,7 +32,8 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Dependencies](#dependencies)
-- [Acknowledgments](#acknowledgement)
+- [Acknowledgments](#acknowledgements)
+- [Liceses](#licenses)
 - [Authors](#authors)
 
 ---
@@ -74,9 +75,15 @@ or download the zip from the green **"Code"** button.
 
 ---
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 Acknowledgements <a name = "acknowledgements"></a>
 
 - JSON file created based on [DMC CrazyArtZone](http://dmc.crazyartzone.com/index.asp) chart.
+
+---
+
+## 📝 Liceses <a name = "licenses"></a>
+
+- Distributed under the MIT License.
 
 ---
 
