@@ -83,7 +83,7 @@ or download the zip from the green **"Code"** button.
 
 ## 📝 Liceses <a name = "licenses"></a>
 
-- Distributed under the MIT License.
+- Distributed under the MIT License - see the [LICENSE.md](https://github.com/devfel/convertfloss/blob/master/LICENSE.md) file for details. 
 
 ---
 
